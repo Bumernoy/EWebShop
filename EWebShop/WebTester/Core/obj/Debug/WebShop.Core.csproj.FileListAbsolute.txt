@@ -1,0 +1,9 @@
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\bin\Debug\BuildSeller.Core.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\bin\Debug\BuildSeller.Core.pdb
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\bin\Debug\Newtonsoft.Json.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\bin\Debug\Newtonsoft.Json.xml
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\obj\Debug\WebShop.Core.csprojResolveAssemblyReference.cache
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\obj\Debug\BuildSeller.Core.Properties.Resources.resources
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\obj\Debug\WebShop.Core.csproj.GenerateResource.Cache
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\obj\Debug\BuildSeller.Core.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Core\obj\Debug\BuildSeller.Core.pdb

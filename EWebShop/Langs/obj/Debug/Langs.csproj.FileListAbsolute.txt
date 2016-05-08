@@ -1,0 +1,13 @@
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\bin\Debug\Langs.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\bin\Debug\Langs.pdb
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\bin\Debug\en\Langs.resources.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\bin\Debug\ru\Langs.resources.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.csprojResolveAssemblyReference.cache
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.Lang.resources
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.Lang.en.resources
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.Lang.ru.resources
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.csproj.GenerateResource.Cache
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\en\Langs.resources.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\ru\Langs.resources.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\Langs\obj\Debug\Langs.pdb

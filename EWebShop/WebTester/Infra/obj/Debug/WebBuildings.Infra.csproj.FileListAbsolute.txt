@@ -1,0 +1,12 @@
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\BuildSeller.Infra.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\BuildSeller.Infra.pdb
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\Castle.Core.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\Castle.Services.Logging.NLogIntegration.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\Castle.Windsor.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\NLog.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\Castle.Core.xml
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\Castle.Windsor.xml
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\bin\Debug\NLog.xml
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\obj\Debug\WebBuildings.Infra.csprojResolveAssemblyReference.cache
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\obj\Debug\BuildSeller.Infra.dll
+E:\University\KURSACH\EWebShop\BuildingsSeller\WebTester\Infra\obj\Debug\BuildSeller.Infra.pdb
